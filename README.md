@@ -17,11 +17,11 @@ Is there any seasonality affecting sales?
 
 This analysis aims to answer these questions using real-world data.
 
-🛠️ Tools & Technologies
-Python
-Pandas (Data Cleaning & Analysis)
-Matplotlib (Data Visualization)
-Jupyter Notebook
+🛠️ Tools & Technologies  
+Python  
+Pandas (Data Cleaning & Analysis)  
+Matplotlib (Data Visualization)  
+Jupyter Notebook  
 📂 Dataset
 
 The dataset contains sales records, including:
